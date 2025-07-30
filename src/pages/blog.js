@@ -40,7 +40,6 @@ export default function Blog() {
         ))}
       </div>
       <CommentForm />
-     </div>
+    </div>
   );
-
 }
